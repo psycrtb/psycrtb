@@ -7,7 +7,7 @@ I'm a senior software engineer based in the West Midlands/North West. This is ma
 I have the following assortment of links about me and my work.
   - [LinkedIn](https://www.linkedin.com/in/tim-belfield-8a516b47)
   - [GitHub](https://github.com/psycrtb)
-  - [Curriculum Vitæ](psycrtb.github.io/psycrtb/Tim_Belfield-CV.pdf)
+  - [Curriculum Vitæ](https://timbelfield.com/Tim_Belfield-CV.pdf)
   - [App Store](https://apps.apple.com/ua/developer/con-vit-software-ltd/id1234733376) - just started a few months ago
 
 

@@ -1,12 +1,17 @@
 ### Tim Belfield
 ## Hi there 👋
 
-I'm a senior software engineer based in the West Midlands/North West. This is mainly my professional facing website, so this is mostly about my career facing profile. I like writing software for mobile experiences and have been doing so for a long time. I love modern **mobile-first** focussed apps that solve problems and save time for users with slick UI's and clever engineering solutions. I have worked on all types of great apps out there across the years, using different technology to solve key problems.
+I'm a senior software engineer based in the West Midlands/North West. This is mainly my professional facing website, so this is mostly about my career facing profile. I'm a fan of writing software for mobile experiences and have been doing so for a long time. I love modern **mobile-first** focussed apps that solve problems and save time for users with slick UI's and clever engineering solutions. This has led me to work on all types of great apps out there across the years, using different technology to solve key problems.
 
 - 📫 How to reach me
-  
-- 🔭 I'm currently working on...
-  
+  - [LinkedIn](https://www.linkedin.com/in/tim-belfield-8a516b47)
+  - [GitHub](https://github.com/psycrtb)
+  - [CV](https://github.com/psycrtb)
+ 
+### 🔭 I’m currently working on
+  - Senior iOS Developer at Urban Zoo
+- 💼 Current work...
+  - Senior iOS Developer 
 
 
 
